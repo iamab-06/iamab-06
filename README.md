@@ -7,7 +7,7 @@ Computer Science Engineer | AI Systems | Backend & Cloud Enthusiast
 
 ##  About Me
 - 🎓 Computer Science Student
-- 💻 200+ LeetCode problems solved
+- 💻 300+ LeetCode problems solved
 - ☁️ Learning AWS & DevOps
 - 🧠 Building real-time AI systems
 - 🎯 Preparing for Product-Based Companies

@@ -95,6 +95,6 @@ Building Production-Scale Applications
 
 Connect
 GitHub: https://github.com/iamab-06
-LinkedIn: Add your LinkedIn profile URL
+LinkedIn: [Abhijeet bhat](https://www.linkedin.com/in/abhijeet-bhat-058789294?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 Building scalable systems, intelligent platforms, and cloud-native applications.
